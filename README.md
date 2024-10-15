@@ -3,13 +3,13 @@
 Hey there! 👋 I'm Arpit, a Software Developer who believes that technology can do more than just automate mundane tasks—it can help solve some of life's biggest challenges. Driven by curiosity and a desire to make a real difference, I’m fascinated by how tech can act as a bridge to biological advancements, bringing science and software closer together. 🧬🔧<br><br>When I’m not coding my way through AI models or diving deep into backend architectures, you’ll find me exploring the business side of things, figuring out how to turn data into valuable insights. I love aligning tech with strategy to create meaningful outcomes that don’t just benefit companies, but also the people who rely on their products.<br><br>So, whether it's building quirky projects, brainstorming over a cup of coffee, or discussing the latest in AI, I'm always up for a chat.
 
 ## 🌟 Professional Highlights:
-**Integration Lead - Haptik (2021 - 2023)**
-Crafted AI-powered chatbots that not only converse but also elevate client experiences, all while juggling tech stacks and team dynamics like a seasoned conductor leading a symphony!
-
-**Senior Software Developer - CAW Studios (2021 - 2024)**
+- **Senior Software Developer - CAW Studios (2021 - 2024)**<br>
 Crafted a powerhouse analytics dashboard that transforms data into actionable insights, combining the speed of ScyllaDB, the flexibility of MongoDB, and the scalability of NestJS—because in the streaming world, knowledge is the real binge-worthy content!
 
-**Software Engineer - CG Infinity (2019-2021)**
+- **Senior Integration Engineer - Jio Haptik (2021 - 2023)**<br>
+Crafted Generative AI-powered chatbots that not only converse but also elevate client experiences, all while juggling tech stacks and team dynamics like a seasoned conductor leading a symphony!
+
+- **Software Engineer - CG Infinity (2019-2021)**<br>
 Experienced in transforming backend systems for energy and trading sectors using .NET, optimizing performance with CI/CD pipelines and automated testing, all while keeping a keen eye on scalability and maintainability.
 
 ## 🌐 Socials:
