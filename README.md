@@ -3,7 +3,7 @@ Hey there! 👋 I'm Arpit, a Software Developer who believes that technology can
 
 ## 🌟 Professional Highlights:
 - **Senior Software Developer - CAW Studios (2021 - 2024)**<br>
-Crafted a powerhouse analytics dashboard that transforms data into actionable insights, combining the speed of ScyllaDB, the flexibility of MongoDB, and the scalability of NestJS—because in the streaming world, knowledge is the real binge-worthy content!
+Built a high-performance analytics dashboard that turns data into actionable insights. It leverages the speed of ScyllaDB, the versatility of MongoDB, and the scalability of NestJS—delivering real-time value in the streaming world.
 
 - **Senior Integration Engineer - Jio Haptik (2021 - 2023)**<br>
 Crafted Generative AI-powered chatbots that not only converse but also elevate client experiences, all while juggling tech stacks and team dynamics like a seasoned conductor leading a symphony!
