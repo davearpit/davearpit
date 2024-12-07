@@ -1,7 +1,17 @@
-## 💫 About Me:
-Hey there! 👋 I'm Arpit, a Software Developer who believes that technology can do more than just automate mundane tasks—it can help solve some of life's biggest challenges. Driven by curiosity and a desire to make a real difference, I’m fascinated by how tech can act as a bridge to biological advancements, bringing science and software closer together. 🧬🔧<br><br>When I’m not coding my way through AI models or diving deep into backend architectures, you’ll find me exploring the business side of things, figuring out how to turn data into valuable insights. I love aligning tech with strategy to create meaningful outcomes that don’t just benefit companies, but also the people who rely on their products.<br><br>So, whether it's building quirky projects, brainstorming over a cup of coffee, or discussing the latest in AI, I'm always up for a chat.
+## 💫 About Me  
+
+Hey there! 👋 I'm **Arpit**—a Software Developer with a passion for uncovering the potential of technology to address some of life's most complex challenges. To me, tech isn’t just about automating the mundane; it’s about exploring possibilities, whether that’s solving intricate biological mysteries that once took decades or helping businesses connect with their audiences in more meaningful ways. 🧬🔧  
+
+I thrive on the intersection of tech, strategy, and curiosity. From crafting AI models to designing backend systems, I’m always looking for opportunities to use data creatively—whether it’s answering tough questions about why some businesses fail or shedding light on breakthroughs in biology. The right data, in the right hands, can truly unlock answers to questions we didn’t even know how to ask.  
+
+Beyond coding, I enjoy diving into the business side of things—figuring out how to turn raw data into actionable insights that drive value. I love aligning technology with strategy to build solutions that don’t just work for companies but genuinely improve lives.  
+
+Whether it’s brainstorming quirky project ideas, geeking out about AI, or simply enjoying a good conversation over coffee, I’m always up for a chat. 🚀  
 
 ## 🌟 Professional Highlights:
+- **Senior Integration Engineer - Observe.AI (2024 - Present)**<br>
+Architecting robust system integrations, optimizing APIs, managing data pipelines, and ensuring scalable, high-performance solutions to support AI-driven customer experience workflows.
+
 - **Senior Software Developer - CAW Studios (2021 - 2024)**<br>
 Built a high-performance analytics dashboard that turns data into actionable insights. It leverages the speed of ScyllaDB, the versatility of MongoDB, and the scalability of NestJS—delivering real-time value in the streaming world.
 
