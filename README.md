@@ -1,25 +1,21 @@
 ## 💫 About Me  
 
-Hey there! 👋 I'm **Arpit**—a Software Developer with a passion for uncovering the potential of technology to address some of life's most complex challenges. To me, tech isn’t just about automating the mundane; it’s about exploring possibilities, whether that’s solving intricate biological mysteries that once took decades or helping businesses connect with their audiences in more meaningful ways. 🧬🔧  
+Hi, I’m Arpit—a Software Developer who’s passionate about using technology to solve real-world problems. For me, tech isn’t just about automating tasks; it’s about exploring what’s possible—whether it’s unraveling complex biological challenges or helping businesses connect with their audiences in meaningful ways. 🧬🔧
 
-I thrive on the intersection of tech, strategy, and curiosity. From crafting AI models to designing backend systems, I’m always looking for opportunities to use data creatively—whether it’s answering tough questions about why some businesses fail or shedding light on breakthroughs in biology. The right data, in the right hands, can truly unlock answers to questions we didn’t even know how to ask.  
-
-Beyond coding, I enjoy diving into the business side of things—figuring out how to turn raw data into actionable insights that drive value. I love aligning technology with strategy to build solutions that don’t just work for companies but genuinely improve lives.  
-
-Whether it’s brainstorming quirky project ideas, geeking out about AI, or simply enjoying a good conversation over coffee, I’m always up for a chat. 🚀  
+I love working where tech meets strategy, using data creatively to find answers to tough questions—like why some businesses struggle or how we can uncover breakthroughs in science. I believe the right data in the right hands can solve problems we haven’t even thought to ask yet.  
 
 ## 🌟 Professional Highlights:
 - **Senior Integration Engineer - Observe.AI (2024 - Present)**<br>
-Architecting robust system integrations, optimizing APIs, managing data pipelines, and ensuring scalable, high-performance solutions to support AI-driven customer experience workflows.
+Designing scalable integrations, fine-tuning APIs, and managing data pipelines to power AI-driven customer experiences seamlessly.
 
 - **Senior Software Developer - CAW Studios (2021 - 2024)**<br>
-Built a high-performance analytics dashboard that turns data into actionable insights. It leverages the speed of ScyllaDB, the versatility of MongoDB, and the scalability of NestJS—delivering real-time value in the streaming world.
+Developed a fast and scalable analytics dashboard that turns raw data into real-time insights using ScyllaDB, MongoDB, and NestJS—transforming how streaming data is analyzed.
 
 - **Senior Integration Engineer - Jio Haptik (2021 - 2023)**<br>
-Crafted Generative AI-powered chatbots that not only converse but also elevate client experiences, all while juggling tech stacks and team dynamics like a seasoned conductor leading a symphony!
+Built AI-powered chatbots that deliver great conversations and even better customer experiences, balancing cutting-edge tech and teamwork.
 
 - **Software Engineer - CG Infinity (2019-2021)**<br>
-Experienced in transforming backend systems for energy and trading sectors using .NET, optimizing performance with CI/CD pipelines and automated testing, all while keeping a keen eye on scalability and maintainability.
+Revamped backend systems for the energy and trading industries using .NET, with a focus on performance, scalability, and automated workflows.
 
 ## ✍️ Some Bytes of Wisdom
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
